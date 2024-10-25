@@ -3,13 +3,13 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            TITLE_HERE
+title:            "Laney's Blog"
 tagline:          ''
 description:      ''
 url:              https://kikibase.github.io
 baseurl:          '/Blog-Assignment/'
-author: WriteNameHere
-email: replace@gmail.com
+author: Lalaney Sullivan
+email: sulliv27@myumanitoba.ca
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
