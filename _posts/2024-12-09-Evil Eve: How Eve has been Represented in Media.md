@@ -2,8 +2,6 @@
 layout: post 
 ---
 
-# Evil Eve: How Eve has Been Represented in Media 
-
 ## Whos is Eve?
 
 Every religion has a creation story. In Judaism and Christianity there is Genesis, the story of Adam and Eve. Genesis also appears in the Qur'an but with larger differences in plot than in the Hebrew or Christian bible. Genesis is said to be inspired by the Babylonian creation myth, Enuma Elish, where the creator of the world is a man, and the water that symbolizes chaos is represented as a woman. This would make sense because ancient Mesopotamia neighbored ancient Isreal. (Creation Adam and Eve p.97)  
