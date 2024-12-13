@@ -4,7 +4,7 @@ layout: post
 
 ## Whos is Eve?
 
-Every religion has a creation story. In Judaism and Christianity there is Genesis, the story of Adam and Eve. Genesis also appears in the Qur'an but with larger differences in plot than in the Hebrew or Christian bible. Genesis is said to be inspired by the Babylonian creation myth, Enuma Elish, where the creator of the world is a man, and the water that symbolizes chaos is represented as a woman. This would make sense because ancient Mesopotamia neighbored ancient Isreal. (Creation Adam and Eve p.97)  
+Every religion has a creation story. In Judaism and Christianity there is Genesis, the story of Adam and Eve. Genesis also appears in the Qur'an but with larger differences in plot than in the Hebrew or Christian bible. Genesis is said to be inspired by the Babylonian creation myth, Enuma Elish, where the creator of the world is a man, and the water that symbolizes chaos is represented as a woman. This would make sense because ancient Mesopotamia neighbored ancient Isreal. (Creation Adam and Eve p.97) 
 
 We all generally know how the story goes, God created Adam on the sixth day, and from Adam’s rib he made Eve. Later Eve was tempted by the serpent to eat the forbidden fruit, which led to their expulsion from paradise. Since then, women have been cursed with menstruation, childbirth and subordination to men. Even if you know nothing about any of these three religions, this version of the story sounds about right, and you have probably seen a reference to it on TV before. Adam and Eve have been interpreted in many different ways, to display many different religious or societal values. Eve is a complex character, and she has been used in discussion surrounding women for centuries.  
 
